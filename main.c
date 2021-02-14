@@ -1,7 +1,3 @@
 #include <stdio.h>
 
-int main()
-{
-	printf("Hello Word");
-    return 0;
-}
+int main(){printf("Hello Word\n");return 0;}
